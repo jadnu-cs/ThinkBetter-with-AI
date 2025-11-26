@@ -21,10 +21,22 @@ The CSS is contained inside each of the HTML file. (I was planning on creating a
 
 The javascript file is contained in the assets folder.
 
-Most of the content are just paraphrased/copy pasted from the references given. (FAQs and Ethical Use)
+Some of the content are just paraphrased/copy pasted from the references given. (FAQs and Ethical Use)
 
 DISCLAIMER ! ! !
 This website is not optimized on mobile devices. It is best viewed on a desktop computer. 
+
+<img width="1341" height="621" alt="image" src="https://github.com/user-attachments/assets/a7725400-f53b-46bb-8505-9c7ed4a61429" />
+
+<img width="1335" height="596" alt="image" src="https://github.com/user-attachments/assets/486c6592-0f54-4c3f-b817-d767cbb30a9f" />
+
+<img width="1330" height="577" alt="image" src="https://github.com/user-attachments/assets/d65a46b5-7e71-441d-b6ec-538f06584fcd" />
+
+<img width="1339" height="614" alt="image" src="https://github.com/user-attachments/assets/f49eb0f6-1e2f-4677-9d61-d06a195f2b5d" />
+
+
+
+
 
 
 
